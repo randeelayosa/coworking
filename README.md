@@ -65,6 +65,24 @@ _This app is a mock-up site for a pseudo co-working startup that demonstrates my
 * _As a user of the space, I want to be able to easily find and learn who or what to do if I have a matter or issue that needs tending to._
 * _As a satisfied user of the space, I want to be able to post a testimonial on the the site so that others will be compelled to join._
 
+## Research
+
+#### _How To Accomplish Client's Wants_
+* _Maintain a clean and modern design, leaning more towards a minimalistic aesthetic._
+* _Utilize a bright color scheme, pairing with neutral colors as to maintain aesthetic tastefulness._
+* _Include creative images and photos of people smiling._
+* _Include verbiage of inclusivity and the amenities offered that cater to a cohesive space._
+
+#### _Outside Inspiration_
+* _I researched co-working spaces around the area and kept note of what I wanted to emulate and avoid._
+  * _The Crossing - layout/aesthetic, color scheme_
+  * _CENTRL Office - layout, page info provided_
+  * _Liquid Space - amenities block at bottom of page_
+  * _WeWork - amenities block_
+  * _Urban Office - clean (less clutter), membership page_
+  * _Regus - avoid this look (very corporate)_
+  * _Collective Agency - calendar page, mobile view look_
+
 ## Technology Resources
 
 * _{List all technologies and outside resources your project uses. Especially when we begin using outside UI frameworks in week three! Not only does this give credit where credit is due, but it shows employers what tools you're experienced in.}_
