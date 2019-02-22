@@ -8,27 +8,14 @@
 
 _This app is a mock-up site for a pseudo co-working startup that demonstrates my understanding and efficiency in the Web Design Process. The theoretical idea is that artists of any trade can and should feel comfortable in the shared space, and can utilize it to start up or further their business. Upon landing on the home page, visitors can get a feel for the cool atmosphere vibe and look up the types of spaces available to rent, with its corresponding prices. Viewers can easily get a sense of the space and the amenities offered, membership requirements and benefits, and how to become one._
 
-## Photos of Paper Sketches
+## Paper Sketch
 
-#### _Mobile_
-<p>
-  <img src="img/photo.png" width="350" height="237" title="photo 1">
-  <img src="img/photo.png" width="350" height="237" alt="photo 2">
+#### _Mobile, Tablet, Desktop_
+<p align="center">
+  <img src="img/sketch-campfire.png" width="550" height="424" title="paper sketch">
 </p>
 
-#### _Tablet_
-<p>
-  <img src="img/photo.png" width="350" height="237" title="photo 1">
-  <img src="img/photo.png" width="350" height="237" alt="photo 2">
-</p>
-
-#### _Desktop_
-<p>
-  <img src="img/photo.png" width="350" height="237" title="photo 1">
-  <img src="img/photo.png" width="350" height="237" alt="photo 2">
-</p>
-
-## Screenshots of Sketch Wireframes
+## Sketch Wireframes
 
 #### _Mobile_
 <p>
@@ -74,7 +61,7 @@ _This app is a mock-up site for a pseudo co-working startup that demonstrates my
 * _Include verbiage of inclusivity and the amenities offered that cater to a cohesive space._
 
 #### _Outside Inspiration_
-* _I researched co-working spaces around the area and kept note of what I wanted to emulate and avoid._
+* _I researched co-working spaces around the Portland area and kept note of what I wanted to emulate and avoid._
   * _The Crossing - layout/aesthetic, color scheme_
   * _CENTRL Office - layout, page info provided_
   * _Liquid Space - amenities block at bottom of page_
