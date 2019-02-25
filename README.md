@@ -18,7 +18,7 @@ _This app is a mock-up site for a pseudo co-working startup that demonstrates my
 ## Sketch Wireframes
 
 #### _Mobile_
-<p>
+<p align="center">
   <img src="img/screenshots/mobile-landing.png" width="150" height="310" title="mobile-landing">
   <img src="img/screenshots/mobile-home.png" width="150" height="400" alt="mobile-home">
   <img src="img/screenshots/mobile-amenities.png" width="150" height="340" alt="mobile-amenities">
@@ -27,13 +27,13 @@ _This app is a mock-up site for a pseudo co-working startup that demonstrates my
 </p>
 
 #### _Tablet_
-<p>
+<p align="center">
   <img src="img/screenshots/tablet-landing.png" width="250" height="334" title="tablet-landing">
   <img src="img/screenshots/tablet-home.png" width="250" height="334" alt="tablet-home">
 </p>
 
 #### _Desktop_
-<p>
+<p align="center">
   <img src="img/screenshots/desktop-landing.png" width="350" height="350" title="desktop-landing">
   <img src="img/screenshots/desktop-home.png" width="350" height="350" alt="desktop-home">
 </p>
