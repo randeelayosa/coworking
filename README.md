@@ -19,20 +19,23 @@ _This app is a mock-up site for a pseudo co-working startup that demonstrates my
 
 #### _Mobile_
 <p>
-  <img src="img/photo.png" width="350" height="237" title="photo 1">
-  <img src="img/photo.png" width="350" height="237" alt="photo 2">
+  <img src="img/screenshots/mobile-landing.png" width="150" height="310" title="mobile-landing">
+  <img src="img/screenshots/mobile-home.png" width="150" height="400" alt="mobile-home">
+  <img src="img/screenshots/mobile-amenities.png" width="150" height="340" alt="mobile-amenities">
+  <img src="img/screenshots/mobile-membership.png" width="150" height="400" alt="mobile-membership">
+  <img src="img/screenshots/mobile-contact.png" width="150" height="310" alt="mobile-contact">
 </p>
 
 #### _Tablet_
 <p>
-  <img src="img/photo.png" width="350" height="237" title="photo 1">
-  <img src="img/photo.png" width="350" height="237" alt="photo 2">
+  <img src="img/screenshots/tablet-landing.png" width="250" height="334" title="tablet-landing">
+  <img src="img/screenshots/tablet-home.png" width="250" height="334" alt="tablet-home">
 </p>
 
 #### _Desktop_
 <p>
-  <img src="img/photo.png" width="350" height="237" title="photo 1">
-  <img src="img/photo.png" width="350" height="237" alt="photo 2">
+  <img src="img/screenshots/desktop-landing.png" width="350" height="350" title="desktop-landing">
+  <img src="img/screenshots/desktop-home.png" width="350" height="350" alt="desktop-home">
 </p>
 
 ## User Stories
