@@ -12,7 +12,7 @@ _This app is a mock-up site for a pseudo co-working startup that demonstrates my
 
 #### _Mobile, Tablet, Desktop_
 <p align="center">
-  <img src="img/sketch-campfire.png" width="550" height="424" title="paper sketch">
+  <img src="img/screenshots/sketch-campfire.png" width="550" height="424" title="paper sketch">
 </p>
 
 ## Sketch Wireframes
