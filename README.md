@@ -1,6 +1,6 @@
 # _Campfire Collective PDX_
 
-#### _Front End Development/User Interfaces, Part 1: Week 7 - Two-Week Independent Project}, 2/22/19_
+#### _Front End Development/User Interfaces, Part 1: Week 7 - Two-Week Independent Project, 2/22/19_
 
 #### By _**Randee Layosa**_
 
