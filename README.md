@@ -19,23 +19,24 @@ _<h4 align="center">Mobile, Tablet, Desktop</h4>_
 
 _<h4 align="center">Mobile</h4>_
 <p align="center">
-  <img src="img/screenshots/mobile-landing.png" width="150" height="310" title="mobile-landing">
-  <img src="img/screenshots/mobile-home.png" width="150" height="400" alt="mobile-home">
-  <img src="img/screenshots/mobile-amenities.png" width="150" height="340" alt="mobile-amenities">
-  <img src="img/screenshots/mobile-membership.png" width="150" height="400" alt="mobile-membership">
-  <img src="img/screenshots/mobile-contact.png" width="150" height="310" alt="mobile-contact">
+  <img src="assets/images/screenshots/mobile-landing.png" width="150" height="310" title="mobile-landing">
+  <img src="assets/images/screenshots/mobile-home.png" width="150" height="400" alt="mobile-home">
+  <img src="assets/images/screenshots/mobile-amenities.png" width="150" height="340" alt="mobile-amenities">
+  <img src="assets/images/screenshots/mobile-membership.png" width="150" height="400" alt="mobile-membership">
+  <img src="assets/images/screenshots/mobile-contact.png" width="150" height="310" alt="mobile-contact">
+  <img src="assets/images/screenshots/mobile-menu.png" width="150" height="310" alt="mobile-contact">
 </p>
 
 _<h4 align="center">Tablet</h4>_
 <p align="center">
-  <img src="img/screenshots/tablet-landing.png" width="250" height="334" title="tablet-landing">
-  <img src="img/screenshots/tablet-home.png" width="250" height="334" alt="tablet-home">
+  <img src="assets/images/screenshots/tablet-landing.png" width="250" height="334" title="tablet-landing">
+  <img src="assets/images/screenshots/tablet-home.png" width="250" height="334" alt="tablet-home">
 </p>
 
 _<h4 align="center">Desktop</h4>_
 <p align="center">
-  <img src="img/screenshots/desktop-landing.png" width="350" height="350" title="desktop-landing">
-  <img src="img/screenshots/desktop-home.png" width="350" height="350" alt="desktop-home">
+  <img src="assets/images/screenshots/desktop-landing.png" width="350" height="350" title="desktop-landing">
+  <img src="assets/images/screenshots/desktop-home.png" width="350" height="350" alt="desktop-home">
 </p>
 
 ## User Stories
